@@ -1,0 +1,5 @@
+# Configuration for our application
+
+DEBUG = TRUE
+VERSION = 0.1.0
+API_URL = https://api.example.com/v1
